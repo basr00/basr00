@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
 
 ## 👨‍🍳 Some of my projects:
--
+- Simple Todo list <a href="https://basr00.github.io/Simple-Todo-list/">Live</a> 
 -
 -
 
