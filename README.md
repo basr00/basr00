@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I am Bartek, a third year student of IT and Econometrics
+Hi, I am Bartek, a third year student of Computer Science and Econometrics
 <!--
 **basr00/basr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
